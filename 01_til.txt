@@ -1,0 +1,20 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것 
+
+사람들과 협업하며 인스타그램 클론 코딩하기
+
+2. 1주차 주요 개념 키워드 적어보기
+
+버전관리: 변경된 프로젝트 상태의 정보를 알고 있는 것. Git은 가장 널리 쓰이는 버전 관리 도구 중 하나로 commit 을 사용해서 버전이 달라지는 것을 관리함.
+git 초기화(git initialize): 컴퓨터에 있는 프로젝트를 Git이 관리하는 프로젝트로 만드는 것.
+commit: 현재 프로젝트 상태를 찰칵 저장하는 것. 누가, 언제 commit 했는지, 프로젝트 변경 내용
+commit 메시지: 작업내역이 어떤 것인지 알아볼 수 있게 적는 메시지
+add(staging): commit에 반영할 파일을 선택하는 것. 파일 단위로 commit 반영여부 선택할 수 있음.
+commit history: commit 내역이 순서대로 정리되어 있는 것.
+지금까지 우리가 한 작업: git 초기화 - add(staging) - commit
+repo(리포, repository): Git으로 관리되는 프로젝트
+로컬 repo(local repository): 내 컴퓨터에 저장되어 있는 리포지토리
+원격 repo(remote repository): Github처럼 다른 곳에서 접속할 수 있는 공간에 저장되어 있는 것.
+Tracking(추적): 로컬 repo와 원격 repo를 연결함.
+push: 로컬 repo의 commit들을 원격 repo에 반영하기, 원격 repo에 없는 commit 내역을 한 번에 반영함.
+pull: 원격 repo의 commit들을 로컬 repo에 반영하기, 로컬 repo에 없는 comiit 내역을 한 번에 반영함.
+clone: 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것...
