@@ -17,4 +17,4 @@ repo(리포, repository): Git으로 관리되는 프로젝트
 Tracking(추적): 로컬 repo와 원격 repo를 연결함.
 push: 로컬 repo의 commit들을 원격 repo에 반영하기, 원격 repo에 없는 commit 내역을 한 번에 반영함.
 pull: 원격 repo의 commit들을 로컬 repo에 반영하기, 로컬 repo에 없는 comiit 내역을 한 번에 반영함.
-clone: 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것...
+clone: 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것.
